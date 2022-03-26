@@ -1,0 +1,12 @@
+D:\Visual Studio Projects\HSE C# Homeworks\HW_03\DotLib\bin\Debug\net5.0\DotLib.deps.json
+D:\Visual Studio Projects\HSE C# Homeworks\HW_03\DotLib\bin\Debug\net5.0\DotLib.dll
+D:\Visual Studio Projects\HSE C# Homeworks\HW_03\DotLib\bin\Debug\net5.0\DotLib.pdb
+D:\Visual Studio Projects\HSE C# Homeworks\HW_03\DotLib\obj\Debug\net5.0\DotLib.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\HSE C# Homeworks\HW_03\DotLib\obj\Debug\net5.0\DotLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\HSE C# Homeworks\HW_03\DotLib\obj\Debug\net5.0\DotLib.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\HSE C# Homeworks\HW_03\DotLib\obj\Debug\net5.0\DotLib.AssemblyInfo.cs
+D:\Visual Studio Projects\HSE C# Homeworks\HW_03\DotLib\obj\Debug\net5.0\DotLib.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\HSE C# Homeworks\HW_03\DotLib\obj\Debug\net5.0\DotLib.dll
+D:\Visual Studio Projects\HSE C# Homeworks\HW_03\DotLib\obj\Debug\net5.0\refint\DotLib.dll
+D:\Visual Studio Projects\HSE C# Homeworks\HW_03\DotLib\obj\Debug\net5.0\DotLib.pdb
+D:\Visual Studio Projects\HSE C# Homeworks\HW_03\DotLib\obj\Debug\net5.0\ref\DotLib.dll
